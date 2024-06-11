@@ -1,0 +1,39 @@
+.main{
+  background-color: aqua;
+  padding: 5rem;
+}
+
+.up{
+  color: green;
+}
+
+.down{
+  color: gray;
+}
+
+.heading{
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+
+.subHead{
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+
+.para{
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: gray;
+}
+
+.subMain{
+  background-color: white;
+  padding: 2rem;
+  border-radius: 2rem;
+}
